@@ -1,0 +1,1 @@
+"use strict";document.getElementById("demo-form").addEventListener("submit",function(event){event.preventDefault();document.getElementById("form-result").textContent="Tai demonstracinė forma. Žinutė neišsiųsta ir duomenys neišsaugoti.";});
